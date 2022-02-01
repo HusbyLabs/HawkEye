@@ -1,2 +1,2 @@
-# HawkView
-A websocket-based remote monitoring system for SAE Formula Vehicles
+# HawkEye
+A GUI for monitoring statistics using the [warptables](https://github.com/HusbyLabs/warptables) engine
