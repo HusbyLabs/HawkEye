@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@emotion/react": "^11.9.0",
-    "@emotion/styled": "^11.8.1",
+    "@emotion/styled": "^11.10.0",
     "@mui/icons-material": "^5.8.2",
     "@mui/material": "^5.9.0",
     "react": "17.0.2",
